@@ -10,7 +10,7 @@
     scroll-behavior: smooth;
 }
 :root{
-    --green-color: #9bd889;
+    --green-color: #3cb815;
     --light-green-color: #161a0f;
     --orange-color:#ff5100;
     --light-orange-color: #ff7e00;
@@ -28,6 +28,7 @@ img{
 }
 body{
     color: var(--text-color);
+    background-image: url(https://th.bing.com/th/id/OIG.NlsCHKTPMoRwq4getNCI?w=1024&h=1024&rs=1&pid=ImgDetMain);
 }
 header{
     position: fixed;
